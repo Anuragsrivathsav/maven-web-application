@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Marolix Releases Nexus Repository</name>
-	      <url>http://13.232.176.230:8081/repository/jan-release/</url>
+	      <name>jan Releases Nexus Repository</name>
+	      <url>http://100.26.153.15:8081/repository/jan-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Marolix Snapshot Nexus Repository </name>
-	      <url>http://13.232.176.230:8081/repository/jan-snapshot/</url>
+	      <name>jan Snapshot Nexus Repository </name>
+	      <url>http://100.26.153.15:8081/repository/jan-snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
